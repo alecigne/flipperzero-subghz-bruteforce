@@ -1,0 +1,5 @@
+#+title: Generating sub-GHz brute-force files for the Flipper Zero
+
+This quick-and-dirty Common Lisp script generates a Flipper Zero
+=.sub= file that I used to brute-force my garage door. You can read
+more about this in a [[https://lecigne.net/notes/flipper-brute-force.html][note]] on my website.
